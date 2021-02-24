@@ -2,6 +2,7 @@
 
 while true; do
 	cat <<MRBY
+
 ####################
   [1] 安装脚本
   [2] 更新脚本
@@ -9,6 +10,7 @@ while true; do
   [4] 签到
   [5] 退出
 ####################
+
 MRBY
 	read -p "输入选项：" num
 	case $num in

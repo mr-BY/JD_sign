@@ -3,7 +3,7 @@
 
 ## 使用方法
 ```javascript
-wget https://raw.githubusercontent.com/mr-BY/JD_sign/main/JD_Sign.sh && bash JD_Sign.sh
+wget https://raw.githubusercontent.com/mr-BY/JD_Sign/main/JD_Sign.sh && bash JD_Sign.sh
 ```
 
 ### 感谢以下项目

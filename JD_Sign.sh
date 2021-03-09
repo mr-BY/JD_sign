@@ -18,7 +18,7 @@ MRBY
 		cd
 		apt update && apt upgrade
 		termux-setup-storage
-		apt install nodejs && npm install request -g
+		apt install nodejs && npm install request
 		;&
 	2)
 		cd
